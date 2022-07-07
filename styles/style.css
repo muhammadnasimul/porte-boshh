@@ -30,16 +30,16 @@ h1 {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 11px;
 }
-#memes {
+.fb-share-button {
   bottom: 5px;
   right: 5px;
   position: absolute;
-}
-.fb-share-button {
-  bottom: 5px;
-  right: 70px;
-  position: absolute;
   color: #999;
+}
+#memes {
+  bottom: 5px;
+  right: 55px;
+  position: absolute;
 }
 a {
   color: #999;
