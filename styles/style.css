@@ -35,6 +35,12 @@ h1 {
   right: 5px;
   position: absolute;
 }
+.fb-share-button {
+  bottom: 5px;
+  right: 70px;
+  position: absolute;
+  color: #999;
+}
 a {
   color: #999;
 }
