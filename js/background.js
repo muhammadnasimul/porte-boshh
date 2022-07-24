@@ -9,4 +9,4 @@ function changeBackground() {
   i = (i + 1) % backgroundColor.length;
   j = (j + 1) % textColor.length;
 }
-setInterval(changeBackground, 500);
+setInterval(changeBackground, 250);
